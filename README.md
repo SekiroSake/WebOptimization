@@ -16,6 +16,6 @@
 * Reduced the document query by using getElementById instead
 
 ## Result：
-![Alt text](result/before.jpg?raw=true "Optional Title")
-![Alt text](result/speedresult1.jpg?raw=true "Optional Title")
-![Alt text](result/speedresult2.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/before.png?raw=true "Before")
+![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/speedresult1.png?raw=true "After")
+![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/speedresult2.png?raw=true "After")
