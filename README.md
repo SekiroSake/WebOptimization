@@ -2,8 +2,6 @@
 
 
 
-### Getting started
-
 ####Part 1: Optimize PageSpeed Insights score for index.html
 * Made the css file inline
 * Fixed tbe analytics.js by moving it to the end of the file
@@ -18,6 +16,6 @@
 * Reduced the document query by using getElementById instead
 
 ## Result：
-![Alt text](/hw4/result/before.jpg?raw=true "Optional Title")
-![Alt text](/hw4/result/speedresult1.jpg?raw=true "Optional Title")
-![Alt text](/hw4/result/speedresult2.jpg?raw=true "Optional Title")
+![Alt text](result/before.jpg?raw=true "Optional Title")
+![Alt text](result/speedresult1.jpg?raw=true "Optional Title")
+![Alt text](result/speedresult2.jpg?raw=true "Optional Title")
