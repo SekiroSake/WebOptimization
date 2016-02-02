@@ -21,7 +21,7 @@ https://hang-wang.github.io/WebOptimization
 
 ## Result：
 ### Before
-![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/before.png?raw=true "Before")
+![Alt text](https://github.com/hang-wang/WebOptimization/blob/master/result/before1.png?raw=true "Before")
 ### After
 ![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/speedresult1.png?raw=true "After")
 ![Alt text](https://github.com/pg707284828/WebOptimization/blob/master/result/speedresult2.png?raw=true "After")
