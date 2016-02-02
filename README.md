@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 ###Quick view
-http://pg707284828.github.io/WebOptimization/
+https://hang-wang.github.io/WebOptimization
 ###How to run
 * Open index.html to run this file
 * For speed test, you can host it on your local machine and test the speed on https://developers.google.com/speed/pagespeed/insights/
